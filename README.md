@@ -14,18 +14,18 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
 <div>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=JulyellenS&count_private=true&show_icons=true&theme=midnight-purple">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulyellenS&count_private=true&hide_progress=true&theme=midnight-purple">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&hide_progress=true&theme=midnight-purple">
 </div>
 
 <!--imagens formas de contato-->
 <div>
         <!--imagem instagram-->
-        <a href="https://www.instagram.com/julyellens/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="https://www.instagram.com/julyellens-w5i/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
         <!--imagem gmail-->
-        <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=julyellensantos1818@gmail.com&su=&body="><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=julyellens-w5iantos1818@gmail.com&su=&body="><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <!--imagem linkedin-->
-        <a href="https://www.linkedin.com/in/julyellens/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/julyellens-w5i/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <!--imagem linkedin-->
         <a href="https://wa.me/5571996379531"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
         <br><br>
