@@ -19,7 +19,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img height="185em" src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&hide_progress=true&theme=midnight-purple">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&layout=compact&theme=midnight-purple">
 </div>
 
 <!--imagens formas de contato-->
