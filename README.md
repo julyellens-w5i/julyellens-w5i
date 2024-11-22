@@ -17,9 +17,9 @@
 <!--git stats-->
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="width: 48%; min-width: 300px; height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&layout=compact&theme=midnight-purple" alt="Most Used Languages" style="width: 48%; min-width: 300px; height: 200px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="width: 400px; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&layout=compact&theme=midnight-purple" alt="Most Used Languages" style="width: 400px; height: auto;">
 </div>
 
 <!--imagens formas de contato-->
