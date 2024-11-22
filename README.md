@@ -17,7 +17,7 @@
 <!--git stats-->
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&layout=compact&theme=midnight-purple) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&theme=midnight-purple) |
 |:-------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
 
 <!--imagens formas de contato-->
