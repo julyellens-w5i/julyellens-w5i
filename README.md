@@ -1,6 +1,6 @@
-<div>
-<img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/header_aramuni.png" />
-</div>
+<a href="https://github.com/julyellens-w5i">
+    <img src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/main/img/header_aramuni.png" alt="Header" />
+</a>
 
 <!-- linha gradiente -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
@@ -17,9 +17,9 @@
 <!--git stats-->
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
-<div>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&hide_progress=true&theme=midnight-purple">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&hide_progress=true&theme=midnight-purple">
 </div>
 
 <!--imagens formas de contato-->
