@@ -17,14 +17,9 @@
 <!--git stats-->
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="width: auto; height: auto;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&layout=compact&theme=midnight-purple" alt="Most Used Languages" style="width: auto; height: auto;">
-</div>
-
 <div>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&hide_progress=true&theme=midnight-purple">
+        <img height="185em" width="410px" src="https://github-readme-stats.vercel.app/api?username=julyellens-w5i&count_private=true&show_icons=true&theme=midnight-purple">
+        <img height="185em" width="560px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyellens-w5i&count_private=true&hide_progress=true&theme=midnight-purple">
 </div>
 
 <!--imagens formas de contato-->
